@@ -1,13 +1,8 @@
-👋 Hi, I’m @Nayem17
+👋 Hi, I’m  Abu Nayeem
 🏢 I'm currently working at Worklife
-🚀 I use daily: JavaScript Python Git Shell VS Code
-💻 I work using: React MaterialUI Django PostgreSQL Amazon AWS GitHub GitLab
-⚙️ I also use and work: Php Java Jenkins Kotlin C++ HTML5 CSS3 Bootstrap
-🌱 Learning all about: Node.JS Express.JS Graphql MongoDB
-⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
- 👀 I’m interested in ...
+
  🌱 I’m currently learning ...
--💞️ I’m looking to collaborate on ...
+
 -📫 How to reach me ...
 
 <!---
